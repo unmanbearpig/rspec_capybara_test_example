@@ -1,7 +1,6 @@
 require 'spec_helper'
 
 describe "Login" do
-
   context "Not logged in" do
     describe "Login Page" do
       before do
