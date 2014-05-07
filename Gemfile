@@ -40,6 +40,7 @@ gem 'spring',        group: :development
 
 gem 'devise'
 gem 'haml'
+gem 'foundation-rails'
 
 group :development, :test do
   gem 'rspec-rails'
